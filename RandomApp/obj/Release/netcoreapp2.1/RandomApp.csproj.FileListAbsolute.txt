@@ -1,0 +1,11 @@
+D:\Users\dschong\source\repos\RandomApp\RandomApp\bin\Release\netcoreapp2.1\RandomApp.deps.json
+D:\Users\dschong\source\repos\RandomApp\RandomApp\bin\Release\netcoreapp2.1\RandomApp.runtimeconfig.json
+D:\Users\dschong\source\repos\RandomApp\RandomApp\bin\Release\netcoreapp2.1\RandomApp.runtimeconfig.dev.json
+D:\Users\dschong\source\repos\RandomApp\RandomApp\bin\Release\netcoreapp2.1\RandomApp.dll
+D:\Users\dschong\source\repos\RandomApp\RandomApp\bin\Release\netcoreapp2.1\RandomApp.pdb
+D:\Users\dschong\source\repos\RandomApp\RandomApp\obj\Release\netcoreapp2.1\RandomApp.csprojAssemblyReference.cache
+D:\Users\dschong\source\repos\RandomApp\RandomApp\obj\Release\netcoreapp2.1\RandomApp.csproj.CoreCompileInputs.cache
+D:\Users\dschong\source\repos\RandomApp\RandomApp\obj\Release\netcoreapp2.1\RandomApp.AssemblyInfoInputs.cache
+D:\Users\dschong\source\repos\RandomApp\RandomApp\obj\Release\netcoreapp2.1\RandomApp.AssemblyInfo.cs
+D:\Users\dschong\source\repos\RandomApp\RandomApp\obj\Release\netcoreapp2.1\RandomApp.dll
+D:\Users\dschong\source\repos\RandomApp\RandomApp\obj\Release\netcoreapp2.1\RandomApp.pdb
